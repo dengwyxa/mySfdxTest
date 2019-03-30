@@ -45,15 +45,15 @@
     [
         "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1553954743268,
             "changeTime": 1553954743268,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -534,10 +534,10 @@
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 542,
-            "modifiedTime": 1553955103791,
-            "changeTime": 1553955103791,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
+            "size": 543,
+            "modifiedTime": 1553954834277,
+            "changeTime": 1553954834277,
+            "contentHash": "744759611f8a2e3b87c28ffcffb5d9cbc3c97cba"
         }
     ],
     [
@@ -599,10 +599,10 @@
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 375,
-            "modifiedTime": 1553955142817,
-            "changeTime": 1553955142817,
-            "contentHash": "c148935ac05c49dcb04e42f270a21822bd15e04b"
+            "size": 391,
+            "modifiedTime": 1553954928361,
+            "changeTime": 1553954928361,
+            "contentHash": "52d802e8c7b6a3b083f5afd7324aadf36ee4bcb5"
         }
     ],
     [
@@ -985,14 +985,14 @@
     [
         "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 331,
             "modifiedTime": 1553954992664,
             "changeTime": 1553954992664,
-            "contentHash": "4b67f6fac537ad686ca2fae0595d53c1a69e6a30",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "4b67f6fac537ad686ca2fae0595d53c1a69e6a30"
         }
     ],
     [
@@ -1050,14 +1050,14 @@
     [
         "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 794,
             "modifiedTime": 1553955014480,
             "changeTime": 1553955014480,
-            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c"
         }
     ],
     [
@@ -1089,40 +1089,40 @@
     [
         "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountsLoaded",
         {
+            "state": "u",
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1553954743269,
             "changeTime": 1553954743269,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
         }
     ],
     [
         "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
         {
+            "state": "u",
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1553954756401,
             "changeTime": 1553954756401,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
         }
     ],
     [
         "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/toumio/Desktop/Programming/MySFDC/DXTest/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1553954743269,
             "changeTime": 1553954743269,
-            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1"
         }
     ]
 ]
